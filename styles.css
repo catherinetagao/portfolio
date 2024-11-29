@@ -52,6 +52,21 @@ section {
   border: 1px solid #ddd;
   border-radius: 5px;
 }
+
+.project video {
+  width: 500px; /* or any other size you need */
+  height: auto; /* keeps the aspect ratio */
+  display: block;
+  margin: 0 auto; /* centers the image */
+}
+
+.project img {
+  width: 500px; /* or any other size you need */
+  height: auto; /* keeps the aspect ratio */
+  display: block;
+  margin: 0 auto; /* centers the image */
+}
+
 footer {
   text-align: center;
   padding: 20px;
