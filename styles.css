@@ -54,10 +54,9 @@ section {
 }
 
 .project video {
-  width: 500px; /* or any other size you need */
-  height: auto; /* keeps the aspect ratio */
-  display: block;
-  margin: 0 auto; /* centers the image */
+  width: 100%;       /* Make the image take up 100% of its container */
+  height: auto;      /* Maintain aspect ratio */
+  max-width: 100%;   /* Ensure image doesn't exceed the width of its container *
 }
 
 .project img {
