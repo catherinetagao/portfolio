@@ -56,7 +56,7 @@ section {
 .project video {
   width: 100%;       /* Make the image take up 100% of its container */
   height: auto;      /* Maintain aspect ratio */
-  max-width: 100%;   /* Ensure image doesn't exceed the width of its container *
+  max-width: 100%;   /* Ensure image doesn't exceed the width of its container */
 }
 
 .project img {
